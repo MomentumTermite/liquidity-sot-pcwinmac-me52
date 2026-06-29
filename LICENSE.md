@@ -1,4 +1,4 @@
-# 
+# رسمي liquidity sniper bot سير العمل لـ Mac OS | توربو liquidity sniper bot سير العمل لـ PC Windows. مع اختبارات المحاكاة و تنفيذ الحزم — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
